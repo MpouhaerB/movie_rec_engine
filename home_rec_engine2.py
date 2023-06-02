@@ -5,7 +5,7 @@ from PIL import Image
 from sklearn.neighbors import NearestNeighbors
 
 st.set_page_config(
-    page_title = "CreuseFlix : Vos recommnadations de films",
+    page_title = "CreuseFlix : Vos recommandations de films",
     page_icon = "🍿",
     layout="wide",
 )
