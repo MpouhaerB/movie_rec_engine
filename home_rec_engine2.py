@@ -19,8 +19,8 @@ def load_data():
 
 df = load_data()
 
-logo = Image.open('/Users/mickaelpouhaer/Documents/Python/C.png')
-popcorn = Image.open('/Users/mickaelpouhaer/Documents/Python/popcorn_streamlit2.png')
+logo = Image.open('C2.png')
+popcorn = Image.open('popcorn_streamlit2.png')
 
 N_RECOMMENDED_MOVIES = 6
 
